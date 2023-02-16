@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://komarev.com/ghpvc/?username=shxnying&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
+  
 :woman_technologist: About Me :
 I am a Cyber Security Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 - :telescope:  I am currently pursuing my education and building a strong foundation in cyber security. I am learning how to develop secure software, perform vulnerability assessments, and conduct penetration testing.
