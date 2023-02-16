@@ -1,20 +1,3 @@
-### 
-
-<!--
-**shxnying/shxnying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <h1>Hi there!! 👋<h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNhNzA1NGFiOGNjZjVlOTIwZWUwMmFmOTcwOTRhOTQ1NGFmOTEyMyZjdD1n/3ohze15TQsHnWxQfm0/giphy.gif" width="800"/>
@@ -26,7 +9,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=shxnying&style=flat-square&color=blue" alt=""/>
 </div>
 ---
-### :woman_technologist: About Me :
+:woman_technologist: About Me :
 I am a Cyber Security Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 - :telescope:  I am currently pursuing my education and building a strong foundation in cyber security. I am learning how to develop secure software, perform vulnerability assessments, and conduct penetration testing.
 
