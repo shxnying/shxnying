@@ -3,11 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNhNzA1NGFiOGNjZjVlOTIwZWUwMmFmOTcwOTRhOTQ1NGFmOTEyMyZjdD1n/3ohze15TQsHnWxQfm0/giphy.gif" width="800"/>
 </div>
 
-<div align='center' id="badges">
-  <a href="https://www.linkedin.com/in/shan-ying-g-43b3311aa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://komarev.com/ghpvc/?username=shxnying&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 ---
   
